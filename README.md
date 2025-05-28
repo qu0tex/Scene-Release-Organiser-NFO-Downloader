@@ -45,7 +45,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________
 ▶️ How to Use =
 
-1. Download "0day_and_eBook_Processing_Tool_v0.2_by_Quotex-TL.zip" from TL forums. (CRC: f409ab46)
+1. Download "0day_and_eBook_Processing_Tool_v0.2_by_Quotex-TL.zip" from Github or TL forums.
 2. Extract the folder "0day_and_eBook_Processing_Too_v0.2_by_Quotex" to:
    - C:\0day_and_eBook_Processing_Too_v0.2_by_Quotex
    - (If you extract it elsewhere, you’ll need to manually edit the script paths.)
